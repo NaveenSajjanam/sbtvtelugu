@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be01fedd.css",
+    "main.js": "/static/js/main.06adb7c2.js",
+    "static/js/453.a7e2affd.chunk.js": "/static/js/453.a7e2affd.chunk.js",
+    "static/media/sevabharathtv_to_ammananna_org.jpg": "/static/media/sevabharathtv_to_ammananna_org.cc423d8f215635b17577.jpg",
+    "index.html": "/index.html",
+    "main.be01fedd.css.map": "/static/css/main.be01fedd.css.map",
+    "main.06adb7c2.js.map": "/static/js/main.06adb7c2.js.map",
+    "453.a7e2affd.chunk.js.map": "/static/js/453.a7e2affd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be01fedd.css",
+    "static/js/main.06adb7c2.js"
+  ]
+}
